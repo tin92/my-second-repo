@@ -1,2 +1,2 @@
 # my-second-repo
-git course onvudemy 
+git course
